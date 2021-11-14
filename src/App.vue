@@ -20,7 +20,7 @@
              <router-link to="/log-in" class="button is-link">
              <span class="icon"><i class="fas fa-sign-in-alt"></i></span>
              </router-link>
-             <router-link to="/cart" class="button is-danger">
+             <router-link to="/sign-in" class="button is-danger">
             <span class="icon"><i class="fas fa-sign-out-alt"></i></span>
              </router-link>
            </div>
@@ -32,7 +32,7 @@
   <router-view/>
 </section>
     <footer class="footer">
-     <p class="has-text-centered is-italic">Copyright (c) TDBSoft 2021</p>
+     <p class="has-text-centered is-italic">Copyright (c) ME 2021</p>
    </footer>
   </div>
 </template>
