@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "How to write Blogs ",
+      "overview": "A Step-by-Step Guide",
+      "content": "Review a step-by-step guide plus useful templates to learn how to write an effective blog post for your target audience and customers.\nSince you’re on this page, you probably already know how integral the process of blogging is to the success of your marketing efforts. Which is why it goes without saying that it's exceptionally important to learn how to effectively start and manage a blog in a way that supports your business.",
+      "id": 1
+    },
+    {
+      "title": "Learn Vue.js Easily",
+      "overview": "Crud operations",
+      "content": "Vue crud operations cover Four main operations, that is, Create , Read , Update , Delete",
+      "id": 2
+    },
+    {
+      "title": "What is a blog post?",
+      "overview": "Any article, news piece...",
+      "content": "A blog post is any article, news piece, or guide that's published in the blog section of a website. A blog post typically covers a specific topic or query, is educational in nature, ranges from 600 to 2,000+ words, and contains other media types such as images, videos, infographics, and interactive charts.",
+      "id": 3
+    }
+  ]
+}
