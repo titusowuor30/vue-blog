@@ -1,6 +1,12 @@
 # vue-blog
 
-## Project setup
+##Backeng setup
+
+## Run the json sever
+```
+npm run jsonserve
+```
+## Frontend setup
 ```
 npm install
 ```
